@@ -1,4 +1,4 @@
-; SYNTAX TEST "Packages/Clojures/Clojure.sublime-syntax"
+; SYNTAX TEST "Packages/Clojures/ClojureScript.sublime-syntax"
 
   (+ 3 3)
 ; ^ punctuation.section.parens.begin.clojure

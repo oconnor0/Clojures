@@ -1,4 +1,4 @@
-; SYNTAX TEST "Packages/Clojures/Clojure.sublime-syntax"
+; SYNTAX TEST "Packages/Clojures/ClojureScript.sublime-syntax"
 
 ; # Comments and whitespace
 
