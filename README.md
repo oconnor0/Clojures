@@ -17,3 +17,5 @@ With the default syntax, if the cursor is in `symbol`, Expand Selection to Scope
 I am uncertain if this package is worth publishing.
 
 The tests have not been updated to handle the syntax changes.
+
+EDN should probably be its own syntax?
