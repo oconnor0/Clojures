@@ -19,3 +19,8 @@ I am uncertain if this package is worth publishing.
 The tests have not been updated to handle the syntax changes.
 
 EDN should probably be its own syntax?
+
+`def` are treated as functions rather than constants:
+
+![scope of name in def](https://user-images.githubusercontent.com/64384/83309103-a067ae00-a1c5-11ea-82d6-2b59bf9e26f0.png)
+
